@@ -1,0 +1,5 @@
+Install Suricata for server :
+sudo wget "0.0.0.0/api/script/?text=true&script_id=8" -O deploy.sh && sudo bash deploy.sh 0.0.0.0 ThTGgWIc
+
+Running program python detection and mitigation :
+python /DDoS-Detect/entropy.py
